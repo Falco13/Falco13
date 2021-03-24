@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oleh
 - 💻 I’m work with Python / Django, Postgresql
 - 📚 I’m currently learning JavaScript
-- 🔧 I’m know html, css, bootstrap
+- 🔧 I’m know HTML, CSS, Bootstrap 4
 - 📫 How to reach me falcokeanu@protonmail.com
 
 <!---
