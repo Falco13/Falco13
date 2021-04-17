@@ -3,6 +3,7 @@
 - 📚 I’m currently learning JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap 4
 - 🔨 I also work with JSON, Junja2, Telegram Bot API
+- 🐧 Linux OS
 - 📫 How to reach me falcokeanu@protonmail.com
 
 <!---
