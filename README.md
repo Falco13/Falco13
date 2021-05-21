@@ -1,8 +1,9 @@
 - 👋 Hello. My name is Oleg. I'm live in Ukraine.
-- 💻 I’m work with Python / Django, Postgresql, SQLite, Git
+- 💻 I’m work with Python / Django
+- 💾 Databases: Postgresql, SQLite
 - 📚 I’m currently learning JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap 4
-- 🔨 I also work with JSON, Junja2, Telegram Bot API
+- 🔨 I also work with JSON, Junja2, GitHub, Telegram Bot API
 - 🐧 Linux OS
 - 📫 How to reach me falcokeanu@protonmail.com
 
