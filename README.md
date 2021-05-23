@@ -2,7 +2,7 @@
 - 💻 I’m work with Python | Django | Flask
 - 💾 Databases: Postgresql, SQLite
 - 📚 I’m currently learning JavaScript
-- 🎨 I’m know HTML, CSS, Bootstrap 4
+- 🎨 I’m know HTML, CSS, Bootstrap
 - 🔨 I also work with JSON, Junja2, GitHub, Telegram Bot API
 - 🐧 Linux OS
 - 📫 How to reach me falcokeanu@protonmail.com
