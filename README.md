@@ -1,5 +1,5 @@
 - 👋 Hello. My name is Oleg. I'm live in Ukraine.
-- 💻 I’m work with Python / Django
+- 💻 I’m work with Python | Django | Flask
 - 💾 Databases: Postgresql, SQLite
 - 📚 I’m currently learning JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap 4
