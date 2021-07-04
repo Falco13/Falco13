@@ -1,4 +1,4 @@
-- 👋 Hello. My name is Oleg. I'm live in Ukraine.
+- 👋 Hello. My name is Oleg.
 - 💻 I’m work with Python | Django | Flask
 - 💾 Databases: Postgresql, SQLite
 - 📒 Basic knowledge JavaScript
