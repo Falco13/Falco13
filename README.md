@@ -6,7 +6,7 @@
 - 🎨 I’m know HTML, CSS, Bootstrap
 - 🔨 I also work with JSON, Junja2, Handlebars, GitHub
 - 🤖 Telegram Bot API
-- 🐧 Linux OS
+- 🐧 Linux OS | Ubuntu
 - 📫 How to reach me falcokeanu@protonmail.com
 
 <!---
