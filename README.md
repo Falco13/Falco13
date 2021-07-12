@@ -1,4 +1,4 @@
-- 👋 Hello. My name is Oleg.
+- 👋 Hello. My name is Oleh.
 - 💻 I’m work with Python | Django | Flask
 - 💾 Databases: Postgresql, SQLite
 - 📒 Basic knowledge JavaScript
