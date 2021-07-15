@@ -1,5 +1,6 @@
-- 👋 Hello. My name is Oleh.
+- 👋 Hello. My name is Oleh
 - 💻 I’m work with Python | Django | Flask
+- 🔗 Basic knowledge Django REST Framework
 - 💾 Databases: Postgresql, SQLite
 - 📒 Basic knowledge JavaScript
 - 🟢 Basic knowledge Node.js | Express
