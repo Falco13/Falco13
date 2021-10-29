@@ -3,10 +3,10 @@
 - 🔗 Basic knowledge Django REST Framework
 - 💾 Databases: Postgresql, SQLite
 - 📒 Basic knowledge JavaScript
-- 🟢 Basic knowledge Node.js | Express
 - 🎨 I’m know HTML, CSS, Bootstrap
 - 🔨 I also work with JSON, Junja2, Handlebars, GitHub
 - 🤖 Telegram Bot API
+- 🟢 Basic knowledge Node.js | Express
 - 🐧 Linux OS | Ubuntu
 - 📫 How to reach me falcokeanu@protonmail.com
 
