@@ -2,6 +2,7 @@
 - 💻 I’m work with Python | Django | Flask
 - 🔗 Basic knowledge Django REST Framework
 - 💾 Databases: Postgresql, SQLite
+- 🔬 Unit testing
 - 📒 Basic knowledge JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap
 - 🔨 I also work with JSON, Junja2, Handlebars, GitHub
