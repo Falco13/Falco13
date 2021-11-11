@@ -5,7 +5,8 @@
 - 🔬 Unit testing
 - 📒 Basic knowledge JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap
-- 🔨 I also work with JSON, Junja2, Handlebars, GitHub
+- 🔨 I also work with Django’s template language, Junja2, Handlebars
+- 🗂 Git: GitHub, Bitbucket
 - 🤖 Telegram Bot API
 - 🟢 Basic knowledge Node.js | Express
 - 🐧 Linux OS | Ubuntu
