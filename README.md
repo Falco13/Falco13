@@ -10,7 +10,7 @@
 - 🤖 Telegram Bot API
 - 🟢 Basic knowledge Node.js | Express
 - 🐧 Linux OS | Ubuntu
-- How to reach me: 📫 falcokeanu@protonmail.com | 📱 Telegram: @e11iot
+- 📫 How to reach me: falcokeanu@protonmail.com
 
 <!---
 Keanu13/Keanu13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
