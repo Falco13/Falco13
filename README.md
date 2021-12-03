@@ -10,7 +10,6 @@
 - 🤖 Telegram Bot API
 - 🟢 Basic knowledge Node.js | Express
 - 🐧 Linux OS | Ubuntu
-
 - How to reach me: 📫 falcokeanu@protonmail.com | 📱 Telegram: @e11iot
 
 <!---
