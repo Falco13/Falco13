@@ -1,7 +1,7 @@
 - 👋 Hello. My name is Oleh
 - 💻 I’m work with Python | Django | Flask
 - 🔗 Basic knowledge Django REST Framework
-- 💾 Databases: Postgresql, SQLite
+- 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🔬 Unit testing
 - 📒 Basic knowledge JavaScript
 - 🎨 I’m know HTML, CSS, Bootstrap
