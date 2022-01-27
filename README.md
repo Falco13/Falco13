@@ -2,7 +2,6 @@
 - 💻 I’m work with Python | Django | Flask
 - 🔗 Basic knowledge Django REST Framework
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
-- 🔬 Unit testing
 - 🐳 Docker
 - 🎨 I’m know HTML, CSS, Bootstrap
 - 🔨 I also work with Django’s template language, Junja2, Handlebars
@@ -10,6 +9,7 @@
 - 🤖 Telegram Bot API
 - 📒 Basic knowledge JavaScript
 - 🟢 Basic knowledge Node.js | Express
+- 🔬 Unit testing
 - 🐧 Linux OS | Ubuntu
 - 📫 How to reach me: falcokeanu@protonmail.com
 
