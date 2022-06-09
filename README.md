@@ -11,5 +11,6 @@
 - 🟢 Basic knowledge Node.js | Express
 - 🔬 Unit testing
 - 🐧 Linux OS | Ubuntu
+-  MacOS
 - 📫 How to reach me: falcokeanu@protonmail.com
 
