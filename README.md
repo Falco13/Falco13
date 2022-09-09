@@ -3,6 +3,7 @@
 - 🔗 Django REST Framework | Postman
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🐳 Docker
+- 🔵 Basic knowledge Kubernetes
 - 🎨 HTML, CSS, Bootstrap
 - 🔨 I also work with Django’s template language, Junja2, Handlebars
 - 🗂 Git: GitHub, Bitbucket
