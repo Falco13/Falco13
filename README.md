@@ -1,10 +1,11 @@
 - 👋 Hello. My name is Oleh
 - 💻 I’m work with Python | Django | Flask
-- 🔗 Django REST Framework | Postman
+- 🔗 Django REST Framework
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
 - 🎨 HTML, CSS, Bootstrap
+- 🚀 Postman
 - 🔨 I also work with Django’s template language, Junja2, Handlebars
 - 🗂 Git: GitHub, Bitbucket
 - 🤖 Telegram Bot API
