@@ -1,5 +1,5 @@
 - 👋 Hello. My name is Oleh
-- 💻 I’m work with Python | Django | Flask
+- 💻 I work with Python | Django | Flask
 - 🔗 Django REST Framework
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🐳 Docker
