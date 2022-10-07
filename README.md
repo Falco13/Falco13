@@ -5,10 +5,10 @@
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
 - 🎨 HTML, CSS, Bootstrap
-- 🚀 Postman
 - 🔨 I also work with Django’s template language, Junja2, Handlebars
 - 🗂 Git: GitHub, Bitbucket
 - 🤖 Telegram Bot API
+- 🚀 Postman
 - 📒 Basic knowledge JavaScript
 - 🟢 Basic knowledge Node.js | Express
 - 🔬 Unit testing
