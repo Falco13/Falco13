@@ -1,6 +1,7 @@
 - 👋 Hello. My name is Oleh
 - 💻 I work with Python | Django | Flask
 - 🔗 Django REST Framework
+- ⚡ FastAPI
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
