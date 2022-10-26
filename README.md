@@ -3,6 +3,7 @@
 - 🔗 Django REST Framework
 - ⚡ FastAPI
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
+- 🧬 SQLAlchemy
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
 - 🎨 HTML, CSS, Bootstrap
