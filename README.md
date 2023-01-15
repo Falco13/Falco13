@@ -11,7 +11,7 @@
 - 🚀 Postman
 - 🔬 Unit testing
 - 🎨 HTML, CSS, Bootstrap
-- 🔨 I also work with Django’s templates, Junja2, Handlebars
+- 🔨 I also work with DjangoTemplates, Junja2, Handlebars
 - 📒 Basic knowledge JavaScript
 - 🟢 Basic knowledge Node.js | Express
 - 🤖 Telegram Bot API
