@@ -4,6 +4,8 @@
 - ⚡ FastAPI
 - 💾 Databases: PostgreSQL, SQLite, MongoDB
 - 🧬 SQLAlchemy
+- 🌱 Celery
+- 🔺 Redis
 - 🍇 Basic knowledge GraphQL
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
