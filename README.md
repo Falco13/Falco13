@@ -41,4 +41,4 @@
 </p>
 
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/falco13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=falco13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/falco13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=falco13&stroke=64748b&background=1c1917&ring=f97316&fire=f97316&currStreakNum=64748b&currStreakLabel=f97316&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
