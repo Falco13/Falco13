@@ -21,3 +21,4 @@
 -  MacOS
 - 📫 How to reach me: falcokeanu@protonmail.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falco13&show_icons=true&theme=radical)
