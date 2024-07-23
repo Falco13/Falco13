@@ -6,7 +6,6 @@
 - 🔺 Redis
 - 🐳 Docker
 - 🔵 Basic knowledge Kubernetes
-- 🗂 Git: GitHub, Bitbucket
 - 🚀 Postman
 - 🔬 Unit testing
 - 🎨 HTML, CSS, Bootstrap
