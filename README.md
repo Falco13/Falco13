@@ -1,5 +1,5 @@
 - 👋 Hello. My name is Oleh
-- 💻 I work with PHP | Laravel | Python | Django+REST | Flask | FastAPI
+- 💻 I work with PHP / Laravel | Python / Django+REST / Flask / FastAPI
 - 💾 Databases: PostgreSQL, MySQL, SQLite, MongoDB
 - 🧬 SQLAlchemy
 - 🌱 Celery
