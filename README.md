@@ -1,5 +1,8 @@
 - 👋 Hello. My name is Oleh
-- 💻 I work with PHP / Laravel | Python / Django+REST / Flask / FastAPI
+- 💻 I work with Python / Django+REST / Flask / FastAPI
+- 🖥 Basic knowledge PHP / Laravel
+- 📒 Basic knowledge JavaScript
+- 🟢 Basic knowledge Node.js | Express
 - 💾 Databases: PostgreSQL, MySQL, SQLite, MongoDB
 - 🧬 SQLAlchemy
 - 🌱 Celery
@@ -10,8 +13,6 @@
 - 🔬 Unit testing
 - 🎨 HTML, CSS, Bootstrap
 - 🔨 I also work with DjangoTemplates, Junja2, Blade
-- 📒 Basic knowledge JavaScript
-- 🟢 Basic knowledge Node.js | Express
 - 🤖 Telegram Bot API
 - 🐧 Linux OS | Ubuntu
 -  MacOS
