@@ -1,5 +1,5 @@
 - 👋 Hello. My name is Oleh
-- 💻 Backend Developer: Python / Django+REST / Flask / FastAPI and PHP / Laravel
+- 💻 Backend Developer: Python / Django+REST / Flask / FastAPI & PHP / Laravel
 - 📒 Basic knowledge of JavaScript
 - 🟢 Basic knowledge of Node.js | Express
 - 💾 Databases: PostgreSQL, MySQL, SQLite, MongoDB
