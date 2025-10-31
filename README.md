@@ -1,21 +1,21 @@
 - 👋 Hello. My name is Oleh
-- 💻 I work with Python / Django+REST / Flask / FastAPI
-- 🖥 Basic knowledge PHP / Laravel
-- 📒 Basic knowledge JavaScript
-- 🟢 Basic knowledge Node.js | Express
+- 💻 Backend Developer: Python / Django+REST / Flask / FastAPI and PHP / Laravel
+- 📒 Basic knowledge of JavaScript
+- 🟢 Basic knowledge of Node.js | Express
 - 💾 Databases: PostgreSQL, MySQL, SQLite, MongoDB
-- 🧬 SQLAlchemy
-- 🌱 Celery
+- 🧬 ORM: SQLAlchemy
+- 🌱 Task queues: Celery
 - 🔺 Redis
 - 🐳 Docker
-- 🔵 Basic knowledge Kubernetes
-- 🚀 Postman
+- 🔵 Basic knowledge of Kubernetes
+- 🛡️ SSH & Server Administration
+- 🚀 API testing: Postman
 - 🔬 Unit testing
-- 🎨 HTML, CSS, Bootstrap
-- 🔨 I also work with DjangoTemplates, Junja2, Blade
+- 🎨 Frontend basics: HTML, CSS, Bootstrap
+- 🛠 Templating: Django Templates, Jinja2, Blade
 - 🤖 Telegram Bot API
 - 🐧 Linux OS | Ubuntu
--  MacOS
+-  macOS
 - 📫 How to reach me: falcokeanu@protonmail.com
 
 ### Skills 
